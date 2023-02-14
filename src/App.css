@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#btn{
+  background-color: cornflowerblue;
+  margin: 20px;
+  color: white;
+}
+
+input{
+  padding: 10px;
+  width: 200px;
+}
